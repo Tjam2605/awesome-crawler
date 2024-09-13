@@ -1,3 +1,4 @@
+![artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1-1500x1000](https://github.com/user-attachments/assets/a49ff94a-d171-44e7-be2c-dc225dea9cb3)
 # Cybersecurity Job Scraper
 
 This repository contains a Python-based tool for scraping cybersecurity-related job listings using the JSearch API. The tool searches for jobs based on predefined keywords related to cybersecurity and saves the results into a CSV file. It is designed to help users find jobs based on specific search criteria, such as location, required skills, and experience level.
