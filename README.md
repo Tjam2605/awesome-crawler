@@ -35,9 +35,14 @@ The tool searches for jobs using the following keywords:
 
 - Python 3.x
 - [fake_useragent](https://pypi.org/project/fake-useragent/) (to rotate user-agent strings)
-- [requests](https://pypi.org/project/requests/) (to make HTTP requests)
+- [http.client](https://docs.python.org/3/library/http.client.html) (for making HTTP requests)
+- [json](https://docs.python.org/3/library/json.html) (to handle JSON responses)
+- [csv](https://docs.python.org/3/library/csv.html) (to write job data to CSV files)
+- [time](https://docs.python.org/3/library/time.html) (to handle random delays)
+- [random](https://docs.python.org/3/library/random.html) (to generate random delay intervals)
 
 To install the required dependencies, run:
 
 ```bash
 pip install fake_useragent
+
